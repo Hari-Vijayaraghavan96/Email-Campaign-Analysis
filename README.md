@@ -28,3 +28,24 @@ Excel File: Contains email campaign data with columns including campaign code, e
 <li><b>Email Send Status:</b> Pie chart to display sent and rejected count.</li>
 <li><b>Member Campaign Analysis:</b> Cards to identify members who engaged with the emails (opened or clicked).</li>
 <li><b>Slicers:</b> Filters to dynamically analyze data by campaign code, year, month, and day of email sent.</li>
+
+## Exploratory Data Analysis (EDA)
+<li>What are the overall rates for CTR, Bounce Rate, Open Rate, and Delivery Rate across campaigns?</li>
+<li>How do email send statuses (Sent, Rejected) vary across different campaigns?</li>
+<li>What are the trends in the volume of emails sent on a monthly basis?</li>
+<li>What are the key performance indicators for each campaign?</li>
+<li>Who are the members that engaged with the campaigns by opening and clicking on the emails?</li>
+
+## Result
+![image](https://github.com/Hari-Vijayaraghavan96/Email-Campaign-Analysis/assets/163993617/1cad29fb-70a9-42dd-82af-6217dce8fa4d)
+
+## Recommendations
+Based on the analysis, the following insights and recommendations were derived:
+<li><b>Optimize Send Times:</b> Identify the optimal times and days for sending emails to maximize open and click-through rates.</li>
+<li><b>Improve Delivery Rates:</b> Analyze reasons for email rejections and implement strategies to improve delivery rates.</li>
+<li><b>Target Engaged Members:</b> Focus on members who have previously engaged with emails (opened or clicked) for future campaigns to improve engagement rates.</li>
+<li><b>Refine Campaign Content:</b> Evaluate the content of emails with higher engagement rates and apply best practices to other campaigns.</li>
+
+## Conclusion
+The Email Campaign Analysis dashboard provides valuable insights into the performance of email marketing campaigns. By understanding key metrics and trends, the company can make data-driven decisions to enhance the effectiveness of their campaigns, improve engagement rates, and achieve better overall results.
+
